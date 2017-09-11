@@ -85,3 +85,4 @@ class ArtigoCientifico(models.Model):
     class Meta:
         verbose_name = "Artigo científico"
         verbose_name_plural = "Artigos científicos"
+    '''batatinha'''
